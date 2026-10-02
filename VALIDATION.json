@@ -1,0 +1,22 @@
+{
+  "record_count": 24,
+  "finding_count": 5,
+  "high_count": 3,
+  "medium_count": 1,
+  "review_count": 1,
+  "high_identified": 6320.5,
+  "all_candidate_exposure": 15745.5,
+  "confirmed_value": 0,
+  "recovered_value": 0,
+  "unsupported_probability_percentages": false,
+  "counterevidence_present": true,
+  "verification_step_present": true,
+  "false_positive_control_count": 3,
+  "external_validation_status": "PASS_WITH_HARDENING_APPLIED",
+  "keyboard_focus_explicit": true,
+  "skip_link_present": true,
+  "aria_live_filter_status": true,
+  "credit_scope_boundary_present": true,
+  "real_data_written_terms_gate_present": true,
+  "public_url_browser_audit_pending": true
+}

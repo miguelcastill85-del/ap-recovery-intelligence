@@ -1,0 +1,510 @@
+{
+  "records": [
+    {
+      "record_id": "R001",
+      "property": "Maple Court",
+      "vendor_id": "V-1007",
+      "vendor_name": "Evergreen Mechanical LLC",
+      "invoice_number": "EM-87411",
+      "invoice_date": "2026-06-03",
+      "invoice_amount": 4821.0,
+      "payment_amount": 4821.0,
+      "payment_date": "2026-06-18",
+      "payment_ref": "PAY-66291",
+      "po_number": "PO-4410",
+      "service_period": "2026-05",
+      "notes": "HVAC preventive maintenance"
+    },
+    {
+      "record_id": "R002",
+      "property": "Maple Court",
+      "vendor_id": "V-1007",
+      "vendor_name": "Evergreen Mechanical LLC",
+      "invoice_number": "EM-87411",
+      "invoice_date": "2026-06-03",
+      "invoice_amount": 4821.0,
+      "payment_amount": 4821.0,
+      "payment_date": "2026-06-27",
+      "payment_ref": "PAY-67188",
+      "po_number": "PO-4410",
+      "service_period": "2026-05",
+      "notes": "Second payment event for same invoice reference"
+    },
+    {
+      "record_id": "R003",
+      "property": "Riverside Flats",
+      "vendor_id": "V-1032",
+      "vendor_name": "North Texas Fire & Safety",
+      "invoice_number": "NT-44109",
+      "invoice_date": "2026-07-08",
+      "invoice_amount": 1299.5,
+      "payment_amount": 1299.5,
+      "payment_date": "2026-07-19",
+      "payment_ref": "PAY-68401",
+      "po_number": "PO-4556",
+      "service_period": "2026-06",
+      "notes": "Annual fire panel inspection"
+    },
+    {
+      "record_id": "R004",
+      "property": "Riverside Flats",
+      "vendor_id": "V-1032",
+      "vendor_name": "North Texas Fire & Safety",
+      "invoice_number": "NT44109",
+      "invoice_date": "2026-07-09",
+      "invoice_amount": 1299.5,
+      "payment_amount": 1299.5,
+      "payment_date": "2026-07-29",
+      "payment_ref": "PAY-69022",
+      "po_number": "PO-4556",
+      "service_period": "2026-06",
+      "notes": "Reference formatting differs; same property/PO/amount"
+    },
+    {
+      "record_id": "R005",
+      "property": "Oak Terrace",
+      "vendor_id": "V-1051",
+      "vendor_name": "Summit Roofing Services",
+      "invoice_number": "SR-22018",
+      "invoice_date": "2026-05-11",
+      "invoice_amount": 2500.0,
+      "payment_amount": 2700.0,
+      "payment_date": "2026-05-24",
+      "payment_ref": "PAY-64880",
+      "po_number": "PO-4317",
+      "service_period": "2026-05",
+      "notes": "Invoice/payment amount mismatch"
+    },
+    {
+      "record_id": "R006",
+      "property": "Maple Court",
+      "vendor_id": "V-1088",
+      "vendor_name": "BrightLine Electrical",
+      "invoice_number": "BL-9044",
+      "invoice_date": "2026-04-16",
+      "invoice_amount": 3675.0,
+      "payment_amount": 3675.0,
+      "payment_date": "2026-05-02",
+      "payment_ref": "PAY-63110",
+      "po_number": "PO-4206",
+      "service_period": "2026-04",
+      "notes": "Panel repair"
+    },
+    {
+      "record_id": "R007",
+      "property": "Maple Court",
+      "vendor_id": "V-1088",
+      "vendor_name": "BrightLine Electrical",
+      "invoice_number": "CM-1182",
+      "invoice_date": "2026-05-04",
+      "invoice_amount": -675.0,
+      "payment_amount": 0.0,
+      "payment_date": "",
+      "payment_ref": "",
+      "po_number": "PO-4206",
+      "service_period": "2026-04",
+      "notes": "Vendor credit memo; no application reference in supplied export"
+    },
+    {
+      "record_id": "R008",
+      "property": "Central Lofts",
+      "vendor_id": "V-1101",
+      "vendor_name": "Metro Lift Services",
+      "invoice_number": "MLS-60071",
+      "invoice_date": "2026-08-01",
+      "invoice_amount": 8750.0,
+      "payment_amount": 8750.0,
+      "payment_date": "2026-08-16",
+      "payment_ref": "PAY-70210",
+      "po_number": "PO-4688",
+      "service_period": "2026-07",
+      "notes": "Quarterly elevator service"
+    },
+    {
+      "record_id": "R009",
+      "property": "Central Lofts",
+      "vendor_id": "V-1189",
+      "vendor_name": "Metro Lift Service Inc.",
+      "invoice_number": "M-60072",
+      "invoice_date": "2026-08-04",
+      "invoice_amount": 8750.0,
+      "payment_amount": 8750.0,
+      "payment_date": "2026-08-21",
+      "payment_ref": "PAY-70511",
+      "po_number": "PO-4691",
+      "service_period": "2026-07",
+      "notes": "Similar vendor identity and amount; different PO/invoice"
+    },
+    {
+      "record_id": "R010",
+      "property": "Oak Terrace",
+      "vendor_id": "V-1202",
+      "vendor_name": "ClearWater Pool Care",
+      "invoice_number": "CWP-2605",
+      "invoice_date": "2026-05-01",
+      "invoice_amount": 2400.0,
+      "payment_amount": 2400.0,
+      "payment_date": "2026-05-10",
+      "payment_ref": "PAY-64001",
+      "po_number": "PO-4001",
+      "service_period": "2026-05",
+      "notes": "Monthly pool service - May"
+    },
+    {
+      "record_id": "R011",
+      "property": "Oak Terrace",
+      "vendor_id": "V-1202",
+      "vendor_name": "ClearWater Pool Care",
+      "invoice_number": "CWP-2606",
+      "invoice_date": "2026-06-01",
+      "invoice_amount": 2400.0,
+      "payment_amount": 2400.0,
+      "payment_date": "2026-06-10",
+      "payment_ref": "PAY-65722",
+      "po_number": "PO-4002",
+      "service_period": "2026-06",
+      "notes": "Monthly pool service - June"
+    },
+    {
+      "record_id": "R012",
+      "property": "Oak Terrace",
+      "vendor_id": "V-1202",
+      "vendor_name": "ClearWater Pool Care",
+      "invoice_number": "CWP-2607",
+      "invoice_date": "2026-07-01",
+      "invoice_amount": 2400.0,
+      "payment_amount": 2400.0,
+      "payment_date": "2026-07-10",
+      "payment_ref": "PAY-67631",
+      "po_number": "PO-4003",
+      "service_period": "2026-07",
+      "notes": "Monthly pool service - July"
+    },
+    {
+      "record_id": "R013",
+      "property": "Riverside Flats",
+      "vendor_id": "V-1220",
+      "vendor_name": "Atlas Restoration Group",
+      "invoice_number": "ARG-7718",
+      "invoice_date": "2026-03-22",
+      "invoice_amount": 6000.0,
+      "payment_amount": 3000.0,
+      "payment_date": "2026-04-05",
+      "payment_ref": "PAY-61102",
+      "po_number": "PO-4108",
+      "service_period": "2026-03",
+      "notes": "Approved split payment 1/2"
+    },
+    {
+      "record_id": "R014",
+      "property": "Riverside Flats",
+      "vendor_id": "V-1220",
+      "vendor_name": "Atlas Restoration Group",
+      "invoice_number": "ARG-7718",
+      "invoice_date": "2026-03-22",
+      "invoice_amount": 6000.0,
+      "payment_amount": 3000.0,
+      "payment_date": "2026-04-20",
+      "payment_ref": "PAY-61831",
+      "po_number": "PO-4108",
+      "service_period": "2026-03",
+      "notes": "Approved split payment 2/2"
+    },
+    {
+      "record_id": "R015",
+      "property": "Central Lofts",
+      "vendor_id": "V-1242",
+      "vendor_name": "Urban Pest Control",
+      "invoice_number": "UPC-5562",
+      "invoice_date": "2026-02-14",
+      "invoice_amount": 980.0,
+      "payment_amount": 980.0,
+      "payment_date": "2026-02-25",
+      "payment_ref": "PAY-59010",
+      "po_number": "PO-3988",
+      "service_period": "2026-02",
+      "notes": "Pest service"
+    },
+    {
+      "record_id": "R016",
+      "property": "Central Lofts",
+      "vendor_id": "V-1242",
+      "vendor_name": "Urban Pest Control",
+      "invoice_number": "CM-5562A",
+      "invoice_date": "2026-02-20",
+      "invoice_amount": -180.0,
+      "payment_amount": 0.0,
+      "payment_date": "",
+      "payment_ref": "",
+      "po_number": "PO-3988",
+      "service_period": "2026-02",
+      "notes": "Credit memo"
+    },
+    {
+      "record_id": "R017",
+      "property": "Central Lofts",
+      "vendor_id": "V-1242",
+      "vendor_name": "Urban Pest Control",
+      "invoice_number": "UPC-5601",
+      "invoice_date": "2026-03-14",
+      "invoice_amount": 980.0,
+      "payment_amount": 800.0,
+      "payment_date": "2026-03-26",
+      "payment_ref": "PAY-60440",
+      "po_number": "PO-4021",
+      "service_period": "2026-03",
+      "notes": "Credit CM-5562A applied; net payment $800"
+    },
+    {
+      "record_id": "R018",
+      "property": "Maple Court",
+      "vendor_id": "V-1260",
+      "vendor_name": "GreenScape Grounds",
+      "invoice_number": "GS-0612",
+      "invoice_date": "2026-06-12",
+      "invoice_amount": 3100.0,
+      "payment_amount": 3100.0,
+      "payment_date": "2026-06-24",
+      "payment_ref": "PAY-66913",
+      "po_number": "PO-4472",
+      "service_period": "2026-06",
+      "notes": "Landscape service"
+    },
+    {
+      "record_id": "R019",
+      "property": "Maple Court",
+      "vendor_id": "V-1260",
+      "vendor_name": "GreenScape Grounds",
+      "invoice_number": "GS-0712",
+      "invoice_date": "2026-07-12",
+      "invoice_amount": 3150.0,
+      "payment_amount": 3150.0,
+      "payment_date": "2026-07-23",
+      "payment_ref": "PAY-68754",
+      "po_number": "PO-4599",
+      "service_period": "2026-07",
+      "notes": "Landscape service with approved seasonal add-on"
+    },
+    {
+      "record_id": "R020",
+      "property": "Riverside Flats",
+      "vendor_id": "V-1301",
+      "vendor_name": "SecureEntry Systems",
+      "invoice_number": "SES-11881",
+      "invoice_date": "2026-05-18",
+      "invoice_amount": 1450.0,
+      "payment_amount": 1450.0,
+      "payment_date": "2026-06-01",
+      "payment_ref": "PAY-65331",
+      "po_number": "PO-4370",
+      "service_period": "2026-05",
+      "notes": "Access control maintenance"
+    },
+    {
+      "record_id": "R021",
+      "property": "Oak Terrace",
+      "vendor_id": "V-1325",
+      "vendor_name": "Rapid Plumbing Co.",
+      "invoice_number": "RPC-90311",
+      "invoice_date": "2026-07-17",
+      "invoice_amount": 1875.4,
+      "payment_amount": 1875.4,
+      "payment_date": "2026-07-30",
+      "payment_ref": "PAY-69193",
+      "po_number": "PO-4622",
+      "service_period": "2026-07",
+      "notes": "Emergency plumbing"
+    },
+    {
+      "record_id": "R022",
+      "property": "Central Lofts",
+      "vendor_id": "V-1340",
+      "vendor_name": "City Waste Hauling",
+      "invoice_number": "CWH-88021",
+      "invoice_date": "2026-08-05",
+      "invoice_amount": 5120.0,
+      "payment_amount": 5120.0,
+      "payment_date": "2026-08-17",
+      "payment_ref": "PAY-70288",
+      "po_number": "PO-4710",
+      "service_period": "2026-08",
+      "notes": "Waste hauling"
+    },
+    {
+      "record_id": "R023",
+      "property": "Maple Court",
+      "vendor_id": "V-1366",
+      "vendor_name": "Prime Janitorial Group",
+      "invoice_number": "PJG-44810",
+      "invoice_date": "2026-08-09",
+      "invoice_amount": 2295.0,
+      "payment_amount": 2295.0,
+      "payment_date": "2026-08-22",
+      "payment_ref": "PAY-70630",
+      "po_number": "PO-4721",
+      "service_period": "2026-08",
+      "notes": "Janitorial service"
+    },
+    {
+      "record_id": "R024",
+      "property": "Riverside Flats",
+      "vendor_id": "V-1392",
+      "vendor_name": "BlueSky Glass & Door",
+      "invoice_number": "BGD-5154",
+      "invoice_date": "2026-06-28",
+      "invoice_amount": 3640.75,
+      "payment_amount": 3640.75,
+      "payment_date": "2026-07-12",
+      "payment_ref": "PAY-67808",
+      "po_number": "PO-4524",
+      "service_period": "2026-06",
+      "notes": "Lobby door replacement"
+    }
+  ],
+  "findings": [
+    {
+      "id": "APRI-SYN-001",
+      "tier": "HIGH",
+      "classification": "Exact duplicate candidate",
+      "records": [
+        "R001",
+        "R002"
+      ],
+      "identified": 4821.0,
+      "state": "IDENTIFIED",
+      "support": [
+        "Same vendor ID and vendor name",
+        "Same raw invoice number EM-87411",
+        "Same property, PO, invoice date, invoice amount and payment amount",
+        "Two distinct payment references and payment dates"
+      ],
+      "counter": [
+        "A reversal, void/reissue or correcting journal may exist outside the supplied export"
+      ],
+      "why": "The relationship is strong, but the supplied export alone cannot prove both payments ultimately cleared or remained unreversed.",
+      "next": "Verify PAY-66291 and PAY-67188 in the ERP/bank payment history and inspect any void, reversal, refund or reissue record.",
+      "hypothesis": "Possible duplicate invoice entry or duplicate payment run."
+    },
+    {
+      "id": "APRI-SYN-002",
+      "tier": "HIGH",
+      "classification": "Near-duplicate invoice reference",
+      "records": [
+        "R003",
+        "R004"
+      ],
+      "identified": 1299.5,
+      "state": "IDENTIFIED",
+      "support": [
+        "Same vendor ID, property, PO and amount",
+        "Invoice references normalize to NT44109",
+        "Invoice dates one day apart",
+        "Two distinct payment references"
+      ],
+      "counter": [
+        "One document could be a corrected or reissued invoice rather than a duplicate"
+      ],
+      "why": "Reference normalization is an analytical aid, not proof that the source documents are the same legal invoice.",
+      "next": "Compare the two invoice images and PO history; determine whether one document replaced the other.",
+      "hypothesis": "Possible resubmission with formatting variation that bypassed exact-duplicate controls."
+    },
+    {
+      "id": "APRI-SYN-003",
+      "tier": "HIGH",
+      "classification": "Overpayment candidate",
+      "records": [
+        "R005"
+      ],
+      "identified": 200.0,
+      "state": "IDENTIFIED",
+      "support": [
+        "Invoice amount is $2,500.00",
+        "Payment amount is $2,700.00",
+        "Arithmetic difference is $200.00"
+      ],
+      "counter": [
+        "Freight, tax, retainage release or an approved adjustment may be omitted from the export"
+      ],
+      "why": "A payment greater than the invoice is unusual but can be legitimate if source detail is incomplete.",
+      "next": "Reconcile the invoice image, PO/approval detail and payment application before classifying the $200 difference.",
+      "hypothesis": "Possible payment-keying or adjustment error."
+    },
+    {
+      "id": "APRI-SYN-004",
+      "tier": "MEDIUM",
+      "classification": "Unapplied credit signal",
+      "records": [
+        "R006",
+        "R007"
+      ],
+      "identified": 675.0,
+      "state": "IDENTIFIED",
+      "support": [
+        "Credit memo CM-1182 for $675.00",
+        "Same vendor/property/PO as the related charge",
+        "No application reference is present in the supplied export"
+      ],
+      "counter": [
+        "The credit may already be applied in a period, table or subsystem not included in this export"
+      ],
+      "why": "Absence of an application reference in a limited export is not proof of an open credit.",
+      "next": "Inspect the vendor ledger/open-credit report and later invoices before any vendor contact.",
+      "hypothesis": "Possible unapplied vendor credit."
+    },
+    {
+      "id": "APRI-SYN-005",
+      "tier": "REVIEW",
+      "classification": "Vendor-alias / same-amount review",
+      "records": [
+        "R008",
+        "R009"
+      ],
+      "identified": 8750.0,
+      "state": "IDENTIFIED_REVIEW_ONLY",
+      "support": [
+        "Similar vendor names",
+        "Same property, service month and amount",
+        "Invoice dates three days apart"
+      ],
+      "counter": [
+        "Different vendor IDs",
+        "Different invoice references",
+        "Different purchase orders"
+      ],
+      "why": "Counterevidence is material. Current evidence is insufficient for duplicate classification.",
+      "next": "Review vendor-master ownership/alias relationships only. Do not contact the vendor or book a receivable from this signal.",
+      "hypothesis": "Could be a duplicate vendor-master identity, affiliate billing, or two legitimate jobs."
+    }
+  ],
+  "false_positive_controls": [
+    {
+      "records": [
+        "R010",
+        "R011",
+        "R012"
+      ],
+      "title": "Recurring equal payments",
+      "signal": "Same vendor and $2,400 payment repeats monthly",
+      "resolution": "Not escalated: different invoice IDs, service periods and POs support ordinary recurring service."
+    },
+    {
+      "records": [
+        "R013",
+        "R014"
+      ],
+      "title": "Approved split payment",
+      "signal": "Same invoice appears in two payment rows",
+      "resolution": "Not escalated: $3,000 + $3,000 reconciles exactly to one $6,000 invoice and the source notes identify an approved split payment."
+    },
+    {
+      "records": [
+        "R015",
+        "R016",
+        "R017"
+      ],
+      "title": "Applied credit",
+      "signal": "Negative credit plus lower later payment",
+      "resolution": "Not escalated: the $180 credit reconciles a later $980 invoice to an $800 payment."
+    }
+  ]
+}

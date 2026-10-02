@@ -1,0 +1,50 @@
+{
+  "release": "APRI_EVIDENCE_ROOM_v3_1_EXTERNALLY_VALIDATED",
+  "files": [
+    {
+      "path": "EXTERNAL_VALIDATION.md",
+      "bytes": 4024,
+      "sha256": "e3643ea050731bdd9d4c82d8ac5bc034d0bdb4a090f1f22f522381666f66ce3d"
+    },
+    {
+      "path": "EXTERNAL_VALIDATION_CHECKS.json",
+      "bytes": 159,
+      "sha256": "71771d7653344e0d88e8a2aa120de4bb409476995e10dd18e8e9c34026547cb6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 609,
+      "sha256": "0f619a17d47a93d9cca1dd84769d4ad0cc1919860fed256298673027c801c1aa"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 673,
+      "sha256": "252fca5a8fb0cb1a288a73571350a9128860f25c576dc28a01cba5d1b4ceb970"
+    },
+    {
+      "path": "assets/app.js",
+      "bytes": 16209,
+      "sha256": "97b8ef0dc97f918bff39b6bc75a3477cc646fed6858d9332154531c1b1732b22"
+    },
+    {
+      "path": "assets/style.css",
+      "bytes": 6934,
+      "sha256": "7776dc8cd13fccd9e72356422ed435b203195cd8294cd035bc2481071e66d91f"
+    },
+    {
+      "path": "data.json",
+      "bytes": 16587,
+      "sha256": "a7ad989867b296c4ffbf0d30340ee4ac326f8ccfc9062920e946f43e7972c75c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8555,
+      "sha256": "60bc5ef28211871558759a1068274470d25313a01f3b753f3a3e7f22f47f6885"
+    },
+    {
+      "path": "synthetic_ap_export.csv",
+      "bytes": 3695,
+      "sha256": "47803a01f4ac6f566564564332eff334023258363856d71c3f19b3157995442e"
+    }
+  ]
+}

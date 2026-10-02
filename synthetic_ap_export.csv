@@ -1,0 +1,25 @@
+record_id,property,vendor_id,vendor_name,invoice_number,invoice_date,invoice_amount,payment_amount,payment_date,payment_ref,po_number,service_period,notes
+R001,Maple Court,V-1007,Evergreen Mechanical LLC,EM-87411,2026-06-03,4821.0,4821.0,2026-06-18,PAY-66291,PO-4410,2026-05,HVAC preventive maintenance
+R002,Maple Court,V-1007,Evergreen Mechanical LLC,EM-87411,2026-06-03,4821.0,4821.0,2026-06-27,PAY-67188,PO-4410,2026-05,Second payment event for same invoice reference
+R003,Riverside Flats,V-1032,North Texas Fire & Safety,NT-44109,2026-07-08,1299.5,1299.5,2026-07-19,PAY-68401,PO-4556,2026-06,Annual fire panel inspection
+R004,Riverside Flats,V-1032,North Texas Fire & Safety,NT44109,2026-07-09,1299.5,1299.5,2026-07-29,PAY-69022,PO-4556,2026-06,Reference formatting differs; same property/PO/amount
+R005,Oak Terrace,V-1051,Summit Roofing Services,SR-22018,2026-05-11,2500.0,2700.0,2026-05-24,PAY-64880,PO-4317,2026-05,Invoice/payment amount mismatch
+R006,Maple Court,V-1088,BrightLine Electrical,BL-9044,2026-04-16,3675.0,3675.0,2026-05-02,PAY-63110,PO-4206,2026-04,Panel repair
+R007,Maple Court,V-1088,BrightLine Electrical,CM-1182,2026-05-04,-675.0,0.0,,,PO-4206,2026-04,Vendor credit memo; no application reference in supplied export
+R008,Central Lofts,V-1101,Metro Lift Services,MLS-60071,2026-08-01,8750.0,8750.0,2026-08-16,PAY-70210,PO-4688,2026-07,Quarterly elevator service
+R009,Central Lofts,V-1189,Metro Lift Service Inc.,M-60072,2026-08-04,8750.0,8750.0,2026-08-21,PAY-70511,PO-4691,2026-07,Similar vendor identity and amount; different PO/invoice
+R010,Oak Terrace,V-1202,ClearWater Pool Care,CWP-2605,2026-05-01,2400.0,2400.0,2026-05-10,PAY-64001,PO-4001,2026-05,Monthly pool service - May
+R011,Oak Terrace,V-1202,ClearWater Pool Care,CWP-2606,2026-06-01,2400.0,2400.0,2026-06-10,PAY-65722,PO-4002,2026-06,Monthly pool service - June
+R012,Oak Terrace,V-1202,ClearWater Pool Care,CWP-2607,2026-07-01,2400.0,2400.0,2026-07-10,PAY-67631,PO-4003,2026-07,Monthly pool service - July
+R013,Riverside Flats,V-1220,Atlas Restoration Group,ARG-7718,2026-03-22,6000.0,3000.0,2026-04-05,PAY-61102,PO-4108,2026-03,Approved split payment 1/2
+R014,Riverside Flats,V-1220,Atlas Restoration Group,ARG-7718,2026-03-22,6000.0,3000.0,2026-04-20,PAY-61831,PO-4108,2026-03,Approved split payment 2/2
+R015,Central Lofts,V-1242,Urban Pest Control,UPC-5562,2026-02-14,980.0,980.0,2026-02-25,PAY-59010,PO-3988,2026-02,Pest service
+R016,Central Lofts,V-1242,Urban Pest Control,CM-5562A,2026-02-20,-180.0,0.0,,,PO-3988,2026-02,Credit memo
+R017,Central Lofts,V-1242,Urban Pest Control,UPC-5601,2026-03-14,980.0,800.0,2026-03-26,PAY-60440,PO-4021,2026-03,Credit CM-5562A applied; net payment $800
+R018,Maple Court,V-1260,GreenScape Grounds,GS-0612,2026-06-12,3100.0,3100.0,2026-06-24,PAY-66913,PO-4472,2026-06,Landscape service
+R019,Maple Court,V-1260,GreenScape Grounds,GS-0712,2026-07-12,3150.0,3150.0,2026-07-23,PAY-68754,PO-4599,2026-07,Landscape service with approved seasonal add-on
+R020,Riverside Flats,V-1301,SecureEntry Systems,SES-11881,2026-05-18,1450.0,1450.0,2026-06-01,PAY-65331,PO-4370,2026-05,Access control maintenance
+R021,Oak Terrace,V-1325,Rapid Plumbing Co.,RPC-90311,2026-07-17,1875.4,1875.4,2026-07-30,PAY-69193,PO-4622,2026-07,Emergency plumbing
+R022,Central Lofts,V-1340,City Waste Hauling,CWH-88021,2026-08-05,5120.0,5120.0,2026-08-17,PAY-70288,PO-4710,2026-08,Waste hauling
+R023,Maple Court,V-1366,Prime Janitorial Group,PJG-44810,2026-08-09,2295.0,2295.0,2026-08-22,PAY-70630,PO-4721,2026-08,Janitorial service
+R024,Riverside Flats,V-1392,BlueSky Glass & Door,BGD-5154,2026-06-28,3640.75,3640.75,2026-07-12,PAY-67808,PO-4524,2026-06,Lobby door replacement

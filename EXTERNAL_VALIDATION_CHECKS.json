@@ -1,0 +1,8 @@
+{
+  "skip_link": true,
+  "main_landmark": true,
+  "aria_live": true,
+  "credit_scope": true,
+  "written_terms_gate": true,
+  "unsupported_percentages": false
+}
